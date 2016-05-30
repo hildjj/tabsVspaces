@@ -17,3 +17,6 @@ indent_style = tab
 # Indentation override for bad example
 [tabs.c]
 indent_style = tab
+# cheating, but to make a point
+indent_size = 8
+tab_width = 2
