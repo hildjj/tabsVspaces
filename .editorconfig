@@ -18,5 +18,5 @@ indent_style = tab
 [tabs.c]
 indent_style = tab
 # cheating, but to make a point
-indent_size = 8
-tab_width = 2
+indent_size = 2
+tab_width = 8
